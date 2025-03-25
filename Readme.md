@@ -1,5 +1,5 @@
 These are the UI components which need to be upgraded
 
--  [NavBar.js](navbar.js.md)
+-  [NavBar.js](NavBar.js.md)
 - [[DisplayPhotos.js]]
 - 

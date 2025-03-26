@@ -5,11 +5,25 @@
  *Code Changed in E4H*:   
 
 ```
-_searchResults : <Link to={Digit?.Customizations?.[apiDetails?.masterName]?.[apiDetails?.moduleName]?.MobileDetailsOnClick(row.mapping, tenantId)} style={{textDecoration:"none"}}>  
+<span className="name" style={{overflowWrap:"break-word", color:"black", paddingTop: "16px"}}>{name}</span>
 ```
 
-in place of 
+Updated on Line 14
 
 ```
-_searchResults : <Link to={Digit?.Customizations?.[apiDetails?.masterName]?.[apiDetails?.moduleName]?.MobileDetailsOnClick(row.mapping, tenantId)}>
+<style>
+{`
+ a{
+   text-decoration:none
+  }
+`}
+</style>
 ```
+
+Added after Line 22
+
+```
+style={{textDecoration:"none !important", color:"black"}}
+```
+
+Added after Line 40

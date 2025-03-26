@@ -1,6 +1,6 @@
 *Path*: <b><ins>libraries/src/hooks/pgr/useInboxData.js</b></ins>
 
-*Change*: Image with class name bannerLogo needs to be added
+*Change*: Code aded at multiple places
 
 *Code Change in E4H*:
 

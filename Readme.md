@@ -11,3 +11,7 @@ Following Files have been changed in E4H as well as DIGIT-Frontend
 
 - [UploadFile](react-components/files-upgraded-in-digit/UploadFile.md)
 - [UploadImages](react-components/files-upgraded-in-digit/UploadImages.md)
+
+Changes in libraries are mentioned below
+- [useInboxData](libraries/useInboxData.md)
+- [Complaint](libraries/Complaint.md)

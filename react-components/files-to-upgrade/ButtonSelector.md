@@ -12,7 +12,7 @@ const language=JSON.parse(sessionStorage.getItem("Digit.locale"))?.value
 Added after `line 5`
  
 ```
-style={props.style ? {...props.style,height:"3rem", paddingLeft:isMobile && language==="ka_IN" ? "10px":"24px", paddingRight:isMobile && language==="ka_IN" ? "10px":"24px"} : null}
+style={props.style ? {...props.style,height:"3rem", paddingLeft:isMobile ? "10px":"24px", paddingRight:isMobile ? "10px":"24px"} : null}
 ```
 
 Replaced in `style` object on `line 21` (`<button>` tag)

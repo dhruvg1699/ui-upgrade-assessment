@@ -66,4 +66,8 @@
 };
 ```
 
+div with class name `photo-wrap` 
 
+```
+ <div className="photos-wrap" style={{...props.style, maxWidth:"auto", width:"500px"}}>
+```

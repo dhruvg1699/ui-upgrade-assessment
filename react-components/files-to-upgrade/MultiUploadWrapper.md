@@ -8,13 +8,13 @@
 disabled, ulb
 ```
 
-Added in props
+Added in `props`
 
 ```
  e.preventDefault()
 ```
 
-Added in onUploadMultipleFiles function
+Added in `onUploadMultipleFiles` function
 
 ```
 const { data: { files: fileStoreIds } = {} } = await Digit.UploadServices.MultipleFilesStorage(module, e.target.files, tenantId)
@@ -27,11 +27,11 @@ let tenant = ulb || Digit.SessionStorage.get("Employee.tenantId")
 const { data: { files: fileStoreIds } = {} } = await Digit.UploadServices.MultipleFilesStorage(module, e.target.files, tenant)
 ```
  
- On Line 101
+ On `Line 101`
 
 ```
 disabled={disabled}
 ulb={ulb}
 ```
 
-Added in UploadFile Component Call
+Added in `UploadFile` Component Call

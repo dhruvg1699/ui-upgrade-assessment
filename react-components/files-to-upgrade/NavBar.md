@@ -1,6 +1,6 @@
 *Path*: <b><ins>react-components/src/atoms/NavBar.js</b></ins>
 
-*Change*: Image with class name bannerLogo needs to be added
+*Change*: Image with class name bannerLogo needs to be added + minor code changes
 
 *Code Change in E4H*:
 
@@ -15,4 +15,8 @@
   marginBottom: '-30px'
 }} />
 ```
+
+Removed line 188 `{isEmployee ? renderSearch() : null}`
+
+Replaced with `<div style={{marginTop:"10px"}}>`. The div tag is closed after `menuItems.map`
 

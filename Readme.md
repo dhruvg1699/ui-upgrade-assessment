@@ -33,6 +33,9 @@ Changes in libraries are mentioned below
 8. [Urls](libraries/Urls.md)
 9. [newFilterFn](libraries/newFilterFn.md)
 10. [UploadServices](libraries/UploadServices.md)
+11. [WorkFlow](libraries/WorkFlow.md)
+12. [ServiceDefinitions](libraries/ServiceDefinitions.md)
+13. [fileType](libraries/fileType.md)
 
 Following are the new Files added in libraries of E4H
 1. [useInbox](libraries/new-files-added/useInbox.md)

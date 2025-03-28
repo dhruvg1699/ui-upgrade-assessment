@@ -15,3 +15,12 @@
 <div className="tag" style={extraStyles?extraStyles?.tagStyles:{}} >
      <span className="text" style={extraStyles?extraStyles?.textStyles:{}}>{text}</span>
 ```
+
+All `setStates` in `onSelect (Line 163)` moved out of `if statement` and added at top
+*Code Added:*
+
+```
+setSelectedOption(val);
+setDropdownStatus(false);
+setFilterVal("")
+```

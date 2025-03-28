@@ -66,3 +66,10 @@ Code added after `line 212`
 let tenantId = window.location.href.split("/")[9]
 let id = window.location.href.split("/")[8]
 ```
+
+Code changed on `line 273`
+
+```
+thumbnailsToShow: { thumbs: instance?.thumbnailsToShow?.thumbs, fullImage: instance?.thumbnailsToShow?.images, videos: instance?.thumbnailsToShow?.videos },
+```
+

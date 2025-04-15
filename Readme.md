@@ -10,9 +10,9 @@ These are the UI components which need to be upgraded
 9. ~~[ImageViewer](react-components/files-to-upgrade/ImageViewer.md)~~
 10. ~~[Dropdown](react-components/files-to-upgrade/Dropdown.md)~~
 11. ~~[Table](react-components/files-to-upgrade/Table.md)~~
-12. [Modal](react-components/files-to-upgrade/Modal.md)
-13. [ButtonSelector](react-components/files-to-upgrade/ButtonSelector.md)
-14. [svgindex](react-components/files-to-upgrade/svgindex.md)
+12. ~~[Modal](react-components/files-to-upgrade/Modal.md)~~
+13. ~~[ButtonSelector](react-components/files-to-upgrade/ButtonSelector.md)~~
+14. ~~[svgindex](react-components/files-to-upgrade/svgindex.md)~~
 
 Following Files have been changed in E4H as well as DIGIT-Frontend
 1. [UploadImages](react-components/files-upgraded-in-digit/UploadImages.md)

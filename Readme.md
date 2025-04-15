@@ -1,12 +1,12 @@
 These are the UI components which need to be upgraded
-1.  [NavBar](react-components/files-to-upgrade/NavBar.md)
-2. [DisplayPhotos](react-components/files-to-upgrade/DisplayPhotos.md)
-3. [RemovableTag](react-components/files-to-upgrade/RemovableTag.md)
-4. [MobileSearchResults](react-components/files-to-upgrade/MobileSearchResults.md)
+1.  ~~[NavBar](react-components/files-to-upgrade/NavBar.md)~~
+2. ~~[DisplayPhotos](react-components/files-to-upgrade/DisplayPhotos.md)~~
+3. ~~[RemovableTag](react-components/files-to-upgrade/RemovableTag.md)~~
+4. ~~[MobileSearchResults](react-components/files-to-upgrade/MobileSearchResults.md)~~
 5. [DetailsCard](react-components/files-to-upgrade/DetailsCard.md)
 6. [MultiUploadWrapper](react-components/files-to-upgrade/MultiUploadWrapper.md)
-7. [UploadFile](react-components/files-to-upgrade/UploadFile.md)
-8. [BreadCrumb](react-components/files-to-upgrade/BreadCrumb.md)
+7. ~~[UploadFile](react-components/files-to-upgrade/UploadFile.md)~~
+8. ~~[BreadCrumb](react-components/files-to-upgrade/BreadCrumb.md)~~
 9. [ImageViewer](react-components/files-to-upgrade/ImageViewer.md)
 10. [Dropdown](react-components/files-to-upgrade/Dropdown.md)
 11. [Table](react-components/files-to-upgrade/Table.md)

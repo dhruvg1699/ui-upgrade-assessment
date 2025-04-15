@@ -7,7 +7,7 @@ These are the UI components which need to be upgraded
 6. [MultiUploadWrapper](react-components/files-to-upgrade/MultiUploadWrapper.md)
 7. ~~[UploadFile](react-components/files-to-upgrade/UploadFile.md)~~
 8. ~~[BreadCrumb](react-components/files-to-upgrade/BreadCrumb.md)~~
-9. [ImageViewer](react-components/files-to-upgrade/ImageViewer.md)
+9. ~~[ImageViewer](react-components/files-to-upgrade/ImageViewer.md)~~
 10. [Dropdown](react-components/files-to-upgrade/Dropdown.md)
 11. [Table](react-components/files-to-upgrade/Table.md)
 12. [Modal](react-components/files-to-upgrade/Modal.md)

@@ -15,15 +15,15 @@ These are the UI components which need to be upgraded
 14. ~~[svgindex](react-components/files-to-upgrade/svgindex.md)~~
 
 Following Files have been changed in E4H as well as DIGIT-Frontend
-1. [UploadImages](react-components/files-upgraded-in-digit/UploadImages.md)
+1. ~~[UploadImages](react-components/files-upgraded-in-digit/UploadImages.md)~~
 2. [User](libraries/files-upgraded-in-digit/User.md)
 
 Following are the new Files added in react-components of E4H
-1. [Tempo](react-components/new-files-added/Tempo.md)
-2. [WrapUnMaskComponent](react-components/new-files-added/WrapUnMaskComponent.md)
-3. [WrapUnMaskComponent_molecules](react-components/new-files-added/WrapUnMaskComponent_molecules.md)
-4. [HlsPlayer](react-components/new-files-added/HlsPlayer.md)
-5. [PlayerControls](react-components/new-files-added/PlayerControls.md)
+1. ~~[Tempo](react-components/new-files-added/Tempo.md)~~
+2. ~~[WrapUnMaskComponent](react-components/new-files-added/WrapUnMaskComponent.md)~~
+3. ~~[WrapUnMaskComponent_molecules](react-components/new-files-added/WrapUnMaskComponent_molecules.md)~~
+4. ~~[HlsPlayer](react-components/new-files-added/HlsPlayer.md)~~
+5. ~~[PlayerControls](react-components/new-files-added/PlayerControls.md)~~
 
 Changes in libraries are mentioned below
 1. [useInboxData](libraries/useInboxData.md)

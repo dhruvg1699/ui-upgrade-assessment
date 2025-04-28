@@ -26,8 +26,8 @@ Following are the new Files added in react-components of E4H
 5. ~~[PlayerControls](react-components/new-files-added/PlayerControls.md)~~
 
 Changes in libraries are mentioned below
-1. [useInboxData](libraries/useInboxData.md)
-2. [Complaint](libraries/Complaint.md)
+1. ~~[useInboxData](libraries/useInboxData.md)~~
+2. ~~[Complaint](libraries/Complaint.md)~~
 3. [useComplaintDetails](libraries/useComplaintDetails.md)
 4. [useComplaintStatus](libraries/useComplaintStatus.md)
 5. [useComplaintStatusWithCount](libraries/useComplaintStatusWithCount.md)

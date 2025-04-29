@@ -30,7 +30,7 @@ Changes in libraries are mentioned below
 2. ~~[Complaint](libraries/Complaint.md)~~
 3. ~~[useComplaintDetails](libraries/useComplaintDetails.md)~~
 4. ~~[useComplaintStatus](libraries/useComplaintStatus.md)~~
-5. [useComplaintStatusWithCount](libraries/useComplaintStatusWithCount.md)
+5. ~~[useComplaintStatusWithCount](libraries/useComplaintStatusWithCount.md)~~
 6. [useComplaintTypes](libraries/useComplaintTypes.md)
 7. [Download](libraries/Download.md)
 8. [Urls](libraries/Urls.md)

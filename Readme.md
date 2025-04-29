@@ -16,7 +16,7 @@ These are the UI components which need to be upgraded
 
 Following Files have been changed in E4H as well as DIGIT-Frontend
 1. ~~[UploadImages](react-components/files-upgraded-in-digit/UploadImages.md)~~
-2. [User](libraries/files-upgraded-in-digit/User.md)
+2. ~~[User](libraries/files-upgraded-in-digit/User.md)~~
 
 Following are the new Files added in react-components of E4H
 1. ~~[Tempo](react-components/new-files-added/Tempo.md)~~
@@ -36,22 +36,22 @@ Changes in libraries are mentioned below
 8. ~~[Urls](libraries/Urls.md)~~
 9. ~~[newFilterFn](libraries/newFilterFn.md)~~
 10. ~~[UploadServices](libraries/UploadServices.md)~~
-11. [WorkFlow](libraries/WorkFlow.md)
-12. [ServiceDefinitions](libraries/ServiceDefinitions.md)
-13. [fileType](libraries/fileType.md)
+11. ~~[WorkFlow](libraries/WorkFlow.md)~~
+12. ~~[ServiceDefinitions](libraries/ServiceDefinitions.md)~~
+13. ~~[fileType](libraries/fileType.md)~~
 
 Following are the new Files added in libraries of E4H
-1. [useInbox](libraries/new-files-added/useInbox.md)
-2. [useBillSearch](libraries/new-files-added/useBillSearch.md)
-3. [useCancelBill](libraries/new-files-added/useCancelBill.md)
-4. [useTenants](libraries/new-files-added/useTenants.md)
-5. [useReceiptsMDMS](libraries/new-files-added/useReceiptsMDMS.md)
-6. [useReceiptsSearch](libraries/new-files-added/useReceiptsSearch.md)
-7. [useReceiptsUpdate](libraries/new-files-added/useReceiptsUpdate.md)
-8. [useFeedBackSearch](libraries/new-files-added/useFeedBackSearch.md)
-9. [Audit](libraries/new-files-added/Audit.md)
-10. [CF](libraries/new-files-added/CF.md)
-11. [Receipts](libraries/new-files-added/Receipts.md)
-12. [Reports](libraries/new-files-added/Reports.md)
-13. [WS](libraries/new-files-added/WS.md)
-14. [useAudit](libraries/new-files-added/useAudit.md)
+1. ~~[useInbox](libraries/new-files-added/useInbox.md)~~
+2. ~~[useBillSearch](libraries/new-files-added/useBillSearch.md)~~
+3. ~~[useCancelBill](libraries/new-files-added/useCancelBill.md)~~
+4. ~~[useTenants](libraries/new-files-added/useTenants.md)~~
+5. ~~[useReceiptsMDMS](libraries/new-files-added/useReceiptsMDMS.md)~~
+6. ~~[useReceiptsSearch](libraries/new-files-added/useReceiptsSearch.md)~~
+7. ~~[useReceiptsUpdate](libraries/new-files-added/useReceiptsUpdate.md)~~
+8. ~~[useFeedBackSearch](libraries/new-files-added/useFeedBackSearch.md)~~
+9. ~~[Audit](libraries/new-files-added/Audit.md)~~
+10. ~~[CF](libraries/new-files-added/CF.md)~~
+11. ~~[Receipts](libraries/new-files-added/Receipts.md)~~
+12. ~~[Reports](libraries/new-files-added/Reports.md)~~
+13. ~~[WS](libraries/new-files-added/WS.md)~~
+14. ~~[useAudit](libraries/new-files-added/useAudit.md)~~

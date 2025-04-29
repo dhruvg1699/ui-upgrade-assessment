@@ -31,11 +31,11 @@ Changes in libraries are mentioned below
 3. ~~[useComplaintDetails](libraries/useComplaintDetails.md)~~
 4. ~~[useComplaintStatus](libraries/useComplaintStatus.md)~~
 5. ~~[useComplaintStatusWithCount](libraries/useComplaintStatusWithCount.md)~~
-6. [useComplaintTypes](libraries/useComplaintTypes.md)
-7. [Download](libraries/Download.md)
-8. [Urls](libraries/Urls.md)
-9. [newFilterFn](libraries/newFilterFn.md)
-10. [UploadServices](libraries/UploadServices.md)
+6. ~~[useComplaintTypes](libraries/useComplaintTypes.md)~~
+7. ~~[Download](libraries/Download.md)~~
+8. ~~[Urls](libraries/Urls.md)~~
+9. ~~[newFilterFn](libraries/newFilterFn.md)~~
+10. ~~[UploadServices](libraries/UploadServices.md)~~
 11. [WorkFlow](libraries/WorkFlow.md)
 12. [ServiceDefinitions](libraries/ServiceDefinitions.md)
 13. [fileType](libraries/fileType.md)

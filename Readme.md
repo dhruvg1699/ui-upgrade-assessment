@@ -28,7 +28,7 @@ Following are the new Files added in react-components of E4H
 Changes in libraries are mentioned below
 1. ~~[useInboxData](libraries/useInboxData.md)~~
 2. ~~[Complaint](libraries/Complaint.md)~~
-3. [useComplaintDetails](libraries/useComplaintDetails.md)
+3. ~~[useComplaintDetails](libraries/useComplaintDetails.md)~~
 4. [useComplaintStatus](libraries/useComplaintStatus.md)
 5. [useComplaintStatusWithCount](libraries/useComplaintStatusWithCount.md)
 6. [useComplaintTypes](libraries/useComplaintTypes.md)
